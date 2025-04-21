@@ -5,5 +5,3 @@
 <a href="https://youtu.be/1P5yyeeYF9o">Contact Support</a> &middot;
 <a href="https://youtu.be/2942BB1JXFk">GitHub Status</a> &middot;
 <a href="https://youtu.be/dQw4w9WgXcQ">@githubstatus</a>
-</р>
-</р>
